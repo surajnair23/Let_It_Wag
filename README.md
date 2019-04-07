@@ -4,7 +4,7 @@ Final project for INFO 5100 - Application Engineering Development course at Nort
 
 You can find more about the course at http://msis.neu.edu/fall2018/11521.pdf
 
-## Description
+## Description 
 
 • Let It Wag, a project built in JAVA Swing framework using the combination of Singleton and Factory Design Patterns.
 
@@ -26,4 +26,15 @@ You can find more about the course at http://msis.neu.edu/fall2018/11521.pdf
 
 ## Running the application locally
 
-You will need to run the file userinterfce.MainJFrame.java in your IDE.
+Once you have sucessfully downloaded the project, you can directly open and run the file userinterface.MainJFrame.java in your [NetBeansIDE](https://netbeans.org/downloads/8.0.2/). 
+
+For Eclipse you can use the below method to convert Netbeans project to Eclipse:
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• In Eclipse, Go to File -> New -> Java Project
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Give a name for your project and click finish to create your project
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• When the project is created find the source folder in NetBeans project, drag and drop all the source files from the NetBeans project    to 'src' folder of your new created project in eclipse.
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Move the java source files to respective package (if required)
+  
+Now you should be able to run your NetBeans project in [Eclipse](https://www.eclipse.org/downloads/).
