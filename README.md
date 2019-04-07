@@ -1,5 +1,10 @@
-LetItWag
-Description
+# LetItWag
+
+Final project for INFO 5100 - Application Engineering Development course at Northeatern University's College of Engineering as a part of it's Masters in Science Information Systems coursework. The course aims at strengthening students knowledge of Java Object Oriented concepts using Java 7(the project has bits of Java 8 which were beyond the scope of the course curriculum at the time of implementation).  
+
+You can find more about the course at http://msis.neu.edu/fall2018/11521.pdf
+
+## Description
 
 • Let It Wag, a project built in JAVA Swing framework using the combination of Singleton and Factory Design Patterns.
 
@@ -11,7 +16,7 @@ Description
 
 • The project utilized AbsoluteLayout, BorderLayout and CardLayout at different screens as necessary.
 
-Design & Considerations
+## Design & Considerations
 
 • The project was built upon an ecosystem model which allowed for scalibilty both vertically and horizontally.
 
@@ -19,6 +24,6 @@ Design & Considerations
 
 • An assumption made was users are not a part of the system as employees of any organization and thus roles are seperate. No employee is allowed to report a pet, similarly users(people who report the pet) are not allowed to raise a direct request for medical attention to a stary pet or request for food etc. This was avoided to ensure we have a simpler implementation with stronger roles for all our entities.
 
-Running the application locally
+## Running the application locally
 
 You will need to run the file userinterfce.MainJFrame.java in your IDE.
