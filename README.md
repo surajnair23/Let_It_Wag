@@ -1,6 +1,6 @@
 # LetItWag
 
-Final project for INFO 5100 - Application Engineering Development course at Northeatern University's College of Engineering as a part of it's Masters in Science Information Systems coursework. The course aims at strengthening students knowledge of Java Object Oriented concepts using Java 7(the project has bits of Java 8 which were beyond the scope of the course curriculum at the time of implementation).  
+Final project for INFO 5100 - Application Engineering Development course at Northeastern University's College of Engineering as a part of it's Masters in Science Information Systems coursework. The course aims at strengthening students knowledge of Java Object Oriented concepts using Java 7(the project has bits of Java 8 which were beyond the scope of the course curriculum at the time of implementation).  
 
 You can find more about the course at http://msis.neu.edu/fall2018/11521.pdf
 
