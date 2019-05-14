@@ -29,6 +29,7 @@ You can find more about the course at http://msis.neu.edu/fall2018/11521.pdf
 Once you have sucessfully downloaded the project, you can directly open and run the file userinterface.MainJFrame.java in your [NetBeansIDE](https://netbeans.org/downloads/8.0.2/). 
 
 For Eclipse you can use the below method to convert Netbeans project to Eclipse:
+
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• In Eclipse, Go to File -> New -> Java Project
   
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Give a name for your project and click finish to create your project
